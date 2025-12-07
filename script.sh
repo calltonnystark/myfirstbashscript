@@ -1,8 +1,10 @@
-#!/bin/bash/ 
-echo Hello World
-echo I hope you are fine, If you are free than kindly let me know about this 
-software= "htop"
-echo "$software"
+#!/bin/bash
+echo hi mom 
 sleep 2
-echo "This is a great thing which are we done"
+echo how are you ??
+sleep 2 
+echo nothing sonr
+sleep 2 
+echo good night mom i hope we see you soon 
+
 
